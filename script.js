@@ -11,7 +11,7 @@ const siteData = {
     {
       titulo: "Especialidades TP",
       slug: "especialidades-tp",
-      media: { img: "img/acad/especialidades.jpg", caption: "Talleres y laboratorios • Referencial" },
+      media: { img: "https://www.ovejeronoticias.cl/wp-content/uploads/2024/11/Evaluaciones-practicas-2.jpg", caption: "Talleres y laboratorios • Referencial" },
       contenido: `
         <ul>
           <li>Electricidad</li>
@@ -29,7 +29,7 @@ const siteData = {
     {
       titulo: "Asignaturas & Plan Común",
       slug: "asignaturas-plan-comun",
-      media: { img: "img/acad/plan-comun.jpg", caption: "Plan común • Referencial" },
+      media: { img: "https://elmagallanico.com/wp-content/uploads/2024/12/2024-12-23-escuelas-edelmag.jpg", caption: "Plan común • Referencial" },
       contenido: `
         <ul>
           <li>Lengua y Literatura</li>
@@ -50,7 +50,7 @@ const siteData = {
     {
       titulo: "Apoyos al Aprendizaje",
       slug: "apoyos-aprendizaje",
-      media: { img: "img/acad/apoyos.jpg", caption: "Acompañamiento • Referencial" },
+      media: { img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIINHMniseAFCTOplZORAGICqUwDgBf_sfUQ&s", caption: "Acompañamiento • Referencial" },
       contenido: `
         <ul>
           <li>PIE: Programa de Integración Escolar</li>
@@ -101,26 +101,26 @@ const siteData = {
 const qsPages = {
   "85-anios": {
     title: "+85 años de historia",
-    body: "Nuestro liceo ha formado generaciones de técnicos y profesionales en Magallanes, construyendo una identidad basada en la excelencia, el respeto y el trabajo colaborativo.",
-    img: "img/qs/85-anios.jpg",
+    body: "El Liceo Industrial de Punta Arenas (hoy Liceo Industrial Bicentenario de Excelencia Armando Quezada Acharán ) se remonta al   1 de junio de 1940, cuando abrió como Escuela de Artes y Oficios para formar técnicos para la industria regional, hito documentado por la prensa local y el Mineduc. A lo largo de más de ocho décadas ha mantenido matrícula TP y modernizado su oferta —hoy con   Electricidad, Telecomunicaciones y Construcción (mención terminaciones) — en coordinación con instituciones del entorno y de educación superior. En 2023 ingresó a la Red de Liceos Bicentenario , reforzando estándares y vínculos con el mundo productivo mediante su Consejo Asesor Empresarial reactivado desde 2022.En 2024 celebró 84 años y en 2025 sus 85 años de trayectoria, reafirmando su rol histórico en la formación técnico-profesional de Magallanes y su compromiso con la educación pública regional.",
+    img: "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/558908334_1376633664471208_4711046568481245918_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_ohc=bOblCDv5WXIQ7kNvwH0i4VM&_nc_oc=AdlHcUMvVaGqrm6OrGEAYmxU6IQvoBzSntDUC-wFFkVSuy0iN_Fby21FrUVb5UXKeCY&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=FFwCpo0cHAr2ZfoCTqcutg&oh=00_AfhWUC73LIVGot-diNDCv_3nich04viKiQcLTgRh81QVIg&oe=69197A40",
     caption: "Archivo histórico institucional • Fotografía referencial"
   },
   "tp-excelencia": {
     title: "TP de Excelencia",
-    body: "Somos parte de la red Bicentenario, con foco en gestión pedagógica, aprendizajes profundos y vinculación con el mundo productivo.",
-    img: "img/qs/tp-excelencia.jpg",
+    body: "En el año 2025, el Liceo Industrial Bicentenario de Excelencia “Armando Quezada Acharán” de Punta Arenas imparte las especialidades técnico-profesionales de Electricidad, Telecomunicaciones, Mecánica Industrial (mención Mecánica Automotriz), Construcción mención Terminaciones y Instalaciones Sanitarias, todas orientadas a responder a las demandas del mercado regional y a promover la inserción laboral de sus egresados.",
+    img: "https://elpinguino.com/uploads/images/large/5b7b7bb99e701bdde8410752876aaf53.jpeg",
     caption: "Laboratorio y equipamiento • Fotografía referencial"
   },
   "pie-acle": {
     title: "PIE & ACLE",
-    body: "Acompañamiento especializado e inclusión efectiva. Sumamos talleres ACLE para potenciar talentos y la convivencia escolar.",
-    img: "img/qs/pie-acle.jpg",
+    body: "El **Proyecto de Integración Escolar (PIE)** del Liceo Industrial Bicentenario de Excelencia Armando Quezada Acharán cumple un rol esencial en la promoción de una educación inclusiva, brindando apoyos especializados a estudiantes con diversas necesidades educativas mediante el trabajo conjunto de docentes, asistentes y profesionales del área psicosocial. Este enfoque se complementa con una variada oferta de **Actividades Curriculares de Libre Elección (ACLE)** que fomentan el desarrollo integral de los jóvenes, fortaleciendo sus habilidades artísticas, deportivas, tecnológicas y sociales. Ambas instancias —PIE y ACLE— se articulan como espacios de acompañamiento y crecimiento personal, favoreciendo la participación, la autoestima y la formación valórica de los estudiantes, asegurando que cada uno pueda desplegar sus talentos y potencialidades en un ambiente de respeto, inclusión y trabajo colaborativo.",
+    img: "https://scontent-scl3-1.xx.fbcdn.net/v/t39.30808-6/302244661_487555790046234_4005971740359176141_n.png?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yoSouDxbKlsQ7kNvwEHGGn7&_nc_oc=AdnsNeaeG18ltBliB2Htdmiptg3zcPWAs-MAeZEJH-p6c6S7FPp54XHp74KSxIPb-GA&_nc_zt=23&_nc_ht=scontent-scl3-1.xx&_nc_gid=eXthYEfsB-Wekf3dFV6Jqw&oh=00_AfikJ927MLRf8kd2fdUtyl9k3hemAV_JapbDh2Xiagqjuw&oe=69196EB9",
     caption: "Inclusión y participación • Fotografía referencial"
   },
   "vinculacion": {
     title: "Vinculación con Empresas",
-    body: "Red de alianzas para prácticas, charlas técnicas y proyectos. Acercamos el aula a la industria para favorecer trayectorias formativas-laborales.",
-    img: "img/qs/vinculacion.jpg",
+    body: "La iniciativa tiene como propósito fortalecer el vínculo entre el liceo y el entorno productivo regional, actuando como un apoyo directo a la gestión de la dirección del establecimiento. A través de esta instancia, se busca identificar nuevas oportunidades laborales que amplíen el campo de acción de los estudiantes, facilitando su acceso a pasantías y prácticas profesionales en empresas e instituciones vinculadas a sus especialidades. De este modo, el Liceo Industrial Bicentenario Armando Quezada Acharán refuerza su compromiso con la formación técnico-profesional de excelencia, promoviendo una educación conectada con el mundo real y enfocada en la inserción laboral efectiva de sus egresados.",
+    img: "https://energia.gob.cl/sites/default/files/styles/noticia_interior_525x310/public/field/image/foto_ppal_nota.jpg?itok=rbT7Xbju&c=1f215ad4df6b5b0499cb4729ecdbf030",
     caption: "Visitas técnicas • Fotografía referencial"
   }
 };
